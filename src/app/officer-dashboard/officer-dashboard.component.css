@@ -1,0 +1,23 @@
+.rectangle{
+    text-align: center;
+}
+
+.center {
+    display: block;
+    position: absolute;
+    
+    right:40%;
+    bottom:35%;
+  }
+
+  .btn1{
+    position: absolute;
+    top: 75%;
+    right:25%
+  }
+
+  .btn2{
+    position: absolute;
+    top:75%;
+    left:23%;
+  }
